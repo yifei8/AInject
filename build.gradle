@@ -2,7 +2,7 @@
 
 buildscript {
     ext.kotlin_version = '1.3.11'
-    ext.auto_inject_version = '1.0.0'
+    ext.auto_inject_version = '1.0.1'
     repositories {
         maven { url rootProject.file("repo-inject") }
         google()
