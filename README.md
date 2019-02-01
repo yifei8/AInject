@@ -75,7 +75,7 @@ public class LoginManagerService implement ILoginManager {
      */
     @IMethod
     public void startInject() {
-       //todo
+       //Automatic generation ，   Non modifiable
     }
 
     @Override
